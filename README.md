@@ -1,6 +1,6 @@
 # react-item-list
 
-> Designed and implemented a production ready application for displaying list of items
+> Designed and implemented a production ready application for managing employee data
 
 > Technology used: `React 17`, `Carbon Components React`, `React-Query`
 
